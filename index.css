@@ -11,6 +11,7 @@ html, body {
     display: flex;
     justify-content: center;
 }
+
 .main>img {
     margin-top: 15%;
     margin-bottom: 25px;
